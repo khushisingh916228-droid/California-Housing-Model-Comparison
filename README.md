@@ -39,8 +39,16 @@ California Housing dataset (built into scikit-learn) — 20,640 records with fea
 | Ridge Regression | [0.745554] | [0.575819] |
 | Decision Tree | [0.724234] | [0.599732] |
 
+ 
 ## 🏆 Best Model
-**[Best model name]** was selected as the best-performing model based on the lowest RMSE and highest R² Score.
+**Decision Tree Regressor** was selected as the best-performing model based on the lowest RMSE and highest R² Score.
+
+## 📊 Visualization
+
+### Actual vs Predicted House Prices (Decision Tree — Best Model)
+![Actual vs Predicted House Prices](actual_vs_predicted_comparison.png)
+
+A closer alignment of points to the red reference line indicates better predictive performance.
 
 ## 💡 Key Insights
 - Feature scaling was essential — without it, features like `Population` (range: 3–35,682) would have dominated smaller-scale features like `AveRooms` (range: 1–10)
