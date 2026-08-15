@@ -35,9 +35,9 @@ California Housing dataset (built into scikit-learn) — 20,640 records with fea
 
 | Model | RMSE | R² Score |
 |---|---|---|
-| Linear Regression | [0.745581] | [0.575788] |
-| Ridge Regression | [0.745554] | [0.575819] |
-| Decision Tree | [0.724234] | [0.599732] |
+| Linear Regression | 0.745581 | 0.575788 |
+   | Ridge Regression | 0.745554 | 0.575819 |
+   | **Decision Tree** ✅ | **0.724234** | **0.599732** |
 
  
 ## 🏆 Best Model
