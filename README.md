@@ -59,7 +59,7 @@ A closer alignment of points to the red reference line indicates better predicti
 - `AI_ML_Task2_Model_Comparison.ipynb` — Full Jupyter Notebook with preprocessing, model training, comparison, and evaluation
 
 ## 🚀 How to Run
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khushisingh916228-droid/California-Housing-Model-Comparison/blob/main/AI_ML_Task2_Model_Comparison.ipynb)
+https://colab.research.google.com/github/khushisingh916228-droid/California-Housing-Model-Comparison/blob/main/AI_ML_Task2_Model_Comparison.ipynb
 
 1. Click the badge above
 2. Run all cells (`Runtime → Run all`)
